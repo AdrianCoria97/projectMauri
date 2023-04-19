@@ -20,5 +20,6 @@ if __name__ == '__main__':
 
     print(doctor.return_name())
     print(doctor.return_city())
+    print("Hola")
 
 
