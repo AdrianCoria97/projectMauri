@@ -47,7 +47,7 @@ class Ambulance(Car):
             self.print_attributes()
             print("Transfer Realized")
         elif new_owner.return_age() < 18:
-            print("You need to be over 18")
+            print("You need to be over 18, thanks")
         else:
             print("You need professional license and need to be over 18")
 
